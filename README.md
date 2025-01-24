@@ -9,3 +9,5 @@ El juego funciona de la siguiente manera:
 - Si se pulsa 'Sortear amigo' sin que se hubiere ingresado ninguno previamente, se mostrará el mensaje de alerta correspondiente. ('No hay amigos en la lista para sortear')
 - Una vez ingresados la cantidad de amigos deseados, al clickear el botón 'Sortear amigo' el sistema eligirá de forma aleatorea un nombre y lo mostrará por pantalla eliminando con ello la lista creada.
 - Para reiniciar el juego se debe refrescar la página con el ícono 'actualizar' del navegador o F5.
+
+- Link del juego: https://evelin-garcia.github.io/Challenge-amigo-secreto/
